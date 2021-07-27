@@ -85,9 +85,11 @@ d3.csv("assets/data/data.csv").then(function (povertyData) {
     .enter()
     .append("text")
     .text(d => d.abbr)
-    .attr("x", d => xLinearScale(d.poverty) - 10)
-    .attr("y", d => yLinearScale(d.healthcare) + 8)
+    .attr("x", d => xLinearScale(d.poverty))
+    .attr("y", d => yLinearScale(d.healthcare))
     .attr("id", "circelabels")
+    .attr("dy", ".4em")
+    .attr("text-anchor", "middle")  
 
 
   // Step 6: Initialize tool tip
