@@ -1,5 +1,6 @@
 # D3-Challenge
 Homework_Week_16
+
 ![NewsPaper](images/giphy.gif)
 
 
@@ -19,7 +20,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 
 ## Results 
-![Results](Poverty_v_LackHealthCare.png)
+![Results](images/Poverty_v_LackHealthCare.png)
 
 The objective of this project is to visualize the relationship between level of Poverty and the Lack of Health Care coverage in all the states of United States.
 
