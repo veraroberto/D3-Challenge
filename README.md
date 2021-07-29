@@ -1,5 +1,5 @@
 # D3-Challenge
-Homework_Week_16
+
 
 ![NewsPaper](images/giphy.gif)
 
